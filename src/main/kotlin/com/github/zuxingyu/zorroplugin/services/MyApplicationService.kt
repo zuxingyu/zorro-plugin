@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zuxingyu.zorroplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zuxingyu.zorroplugin.MyBundle
 
 class MyApplicationService {
 
